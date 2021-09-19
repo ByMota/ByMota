@@ -31,6 +31,7 @@ Estudande de Sistema de Informação e Técnico em Análise e Deselvolvimento de
  
  ##
  
+ 
   ![Snake animation](https://github.com/ByMota/ByMota/blob/output/github-contribution-grid-snake.svg)
  
 </div>
