@@ -1,4 +1,4 @@
-### Oi, eu sou o vinicius 
+### Oi, eu sou o Vinicius.
 Estudande de Sistema de Informação e Técnico em Análise e Deselvolvimento de sistemas, sou um usúario recente de GitHub e espero contribuir muito com o passar do tempo.
 
 ##
