@@ -1,12 +1,10 @@
-### Oi, eu sou o Vinicius.
-Estudande de Sistema de Informação e Técnico em Análise e Deselvolvimento de sistemas, sou um usúario recente de GitHub e espero contribuir muito com o passar do tempo.
+## Oi, eu sou o Vinicius. </br> Hi, i am Vinicius.
+Estudande de Sistema de Informação e Técnico em Análise e Deselvolvimento de sistemas.</br>
+Information System Student and Systems Analysis and Development Technician.
 
 ##
-
-- 😄 Pronomes: Ele/Dele
-- 🔭Já Realizei projetos com: Python, Html, Css, Java
-- 🌱 Estou estudando: Python, Html, Css, JS, React
-
+### Pronomes/ Pronouns
+- 👨‍🦱: Ele/Dele | He/Him
 ##
 
  <p align="center">
@@ -22,10 +20,11 @@ Estudande de Sistema de Informação e Técnico em Análise e Deselvolvimento de
   <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  
  </p>
 </div>
 
-  
  ##
   
 <div> 
